@@ -47,3 +47,29 @@ An AI agent is software that can understand a goal, make a plan, use tools, and 
 ---
 
 Built for AI agentic users who want to move fast without losing control.
+
+
+## How to mint a Binance Agent ID
+
+A Binance Agent ID is a readable `.ai` name for a Binance Agentic Wallet, powered by SPACE ID infrastructure. It replaces a long `0x` address with a name like `yourname.ai`. Claims are first come, first served, and were offered free during the launch offer. Claiming a name does not guarantee a token airdrop or any reward.
+
+### Before you start
+
+- Use the official Binance app only. Do not use a third-party claim link sent to you in a message.
+- Keep the agentic wallet separate from your main funds, and set a conservative spending limit for the agent.
+- Never share a seed phrase, private key, or password at any point in this process.
+
+### Steps
+
+1. Open the Binance app and go to **Wallet**.
+2. Find the Agent ID banner, for example **"Claim your exclusive Agent ID"**, and tap **Claim now**.
+3. Choose an available `.ai` name. Use 3–15 characters, lowercase letters and numbers only. If the name is taken, pick another one — names are first come, first served.
+4. Tap **Create Agentic Wallet** and read and confirm the relevant agreements. Binance will create the Agentic Wallet and link the Agent ID you just claimed to it. You do not need to select an address separately.
+5. Verify the result in the app: your Agent ID should be shown as claimed, and the linked Agentic Wallet should be visible.
+6. Optional, only if an AI agent will sign transactions for you: open the Agentic Wallet, tap the settings icon, and turn on **Developer Mode**. This lets the agent sign transactions initiated by third-party apps through your Agentic Wallet, so keep the spending limit conservative.
+
+### After claiming
+
+- Use the Agent ID for agent-only mints and projects that check for it, and follow the preview-first checklist in this guide for every mint.
+- If you connect an AI agent to the wallet, pair it through the official Binance app and verify any pairing code shown in the app matches what the agent shows.
+- If a project asks you to approve an unrelated spender, transfer funds to an unknown address, or share a seed phrase, stop — that is not part of claiming an Agent ID.
